@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeTab'
+
+include ':app'
